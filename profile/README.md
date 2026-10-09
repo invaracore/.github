@@ -43,8 +43,12 @@ Real market data is the foundation. Synthetic equities are the mission.
 | | |
 |---|---|
 | 🏦 **INVARA Vault on testnet** | Mint and repay synthetic equities with test funds, zero risk |
-| 🤖 **INVARA Telegram bot** | Alerts straight to your phone |
+| 🤖 **INVARA Telegram bot** | Borrow-fee alerts, vault position warnings and a live liquidation feed |
+| 🛡️ **Liquidation Monitor** | Every vault position ranked by health, with one-click liquidations |
 | 📱 **INVARA App (iOS & Android)** | Screener, alerts and your positions in your pocket |
+| 🔐 **INVARA Vault on mainnet** | Real minting after an external audit and legal review (first market: iAAPL) |
+| 📊 **More synthetic markets** | New synthetics for stocks with an on-chain price feed |
+| 🔌 **Public API** | Programmatic access to INVARA data for developers and trading tools |
 | ✨ **And more…** | One release every week |
 
 ---
