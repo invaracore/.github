@@ -35,6 +35,7 @@ Real market data is the foundation. Synthetic equities are the mission.
 | 📈 **Stock Pages** | Fee, rank, cost-to-short calculator and live price chart for every ticker, e.g. [`/s/GME`](https://www.invaracore.com/s/GME) |
 | 🖥️ [**Quant Terminal**](https://www.invaracore.com/terminal) | Borrow fees, prices and overnight gap risk in one real-time view |
 | 🛰️ **Oracle Status** | Live health of every on-chain equity price feed on Robinhood Chain |
+| 🏦 [**INVARA Vault on testnet**](https://www.invaracore.com/testnet) | Mint and repay synthetic AAPL with free test dollars, zero risk |
 
 ---
 
@@ -42,7 +43,6 @@ Real market data is the foundation. Synthetic equities are the mission.
 
 | | |
 |---|---|
-| 🏦 **INVARA Vault on testnet** | Mint and repay synthetic equities with test funds, zero risk |
 | 🤖 **INVARA Telegram bot** | Borrow-fee alerts, vault position warnings and a live liquidation feed |
 | 🛡️ **Liquidation Monitor** | Every vault position ranked by health, with one-click liquidations |
 | 🔐 **INVARA Vault on mainnet** | Real minting after an external audit and legal review (first market: iAAPL) |
