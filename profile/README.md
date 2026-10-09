@@ -44,6 +44,7 @@ Real market data is the foundation. Synthetic equities are the mission.
 |---|---|
 | 🏦 **INVARA Vault on testnet** | Mint and repay synthetic equities with test funds, zero risk |
 | 🤖 **INVARA Telegram bot** | Alerts straight to your phone |
+| 📱 **INVARA App (iOS & Android)** | Screener, alerts and your positions in your pocket |
 | ✨ **And more…** | One release every week |
 
 ---
