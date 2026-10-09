@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://www.invaracore.com/invara-logo.svg" alt="INVARA Core" width="140" />
+<img src="https://raw.githubusercontent.com/invaracore/.github/main/profile/invara-logo.svg" alt="INVARA Core" width="140" />
 
 # INVARA CORE
 
