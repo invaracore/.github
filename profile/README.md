@@ -31,7 +31,7 @@ Real market data is the foundation. Synthetic equities are the mission.
 
 | Stage | Utility |
 |---|---|
-| ⚡ **At launch: INVARA Pro** | Hold $INVR to unlock Pro in the Telegram bot: 100 alerts instead of 25, alerts every minute instead of every 5, 50 tracked vault positions, early access to new synthetic markets |
+| ⚡ **At launch: [INVARA Pro](https://www.invaracore.com/pro)** | Hold 100,000 $INVR (0.01% of supply) to unlock Pro in the Telegram bot: 100 alerts instead of 25, alerts every minute instead of every 5, 50 tracked vault positions, early access to new synthetic markets |
 | 🪙 **Next: Staking tiers** | Stake $INVR to reach higher Pro tiers |
 | 💧 **Before mainnet minting: Liquidity rewards** | $INVR rewards for providing liquidity to INVARA synthetics such as iAAPL |
 
