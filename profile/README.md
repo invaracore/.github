@@ -27,6 +27,18 @@ Real market data is the foundation. Synthetic equities are the mission.
 
 ---
 
+## $INVR
+
+| Stage | Utility |
+|---|---|
+| ⚡ **At launch: INVARA Pro** | Hold $INVR to unlock Pro in the Telegram bot: 100 alerts instead of 25, alerts every minute instead of every 5, 50 tracked vault positions, early access to new synthetic markets |
+| 🪙 **Next: Staking tiers** | Stake $INVR to reach higher Pro tiers |
+| 💧 **Before mainnet minting: Liquidity rewards** | $INVR rewards for providing liquidity to INVARA synthetics such as iAAPL |
+
+$INVR launches **Monday, October 12 · 12:00 PM ET** on Robinhood Chain. Utility is access and tiers; holding or staking $INVR promises no yield. Details: [invaracore.com/docs/invr](https://www.invaracore.com/docs/invr)
+
+---
+
 ## Live Tools
 
 | Tool | Description |
@@ -45,10 +57,11 @@ Real market data is the foundation. Synthetic equities are the mission.
 |---|---|
 | 🤖 **INVARA Telegram bot** | Borrow-fee alerts, vault position warnings and a live liquidation feed |
 | 🛡️ **Liquidation Monitor** | Every vault position ranked by health, with one-click liquidations |
+| 💧 **iAAPL liquidity rewards** | $INVR rewards for providing liquidity to INVARA synthetics |
 | 🔐 **INVARA Vault on mainnet** | Real minting after an external audit and legal review (first market: iAAPL) |
 | 📊 **More synthetic markets** | New synthetics for stocks with an on-chain price feed |
 | 🔌 **Public API** | Programmatic access to INVARA data for developers and trading tools |
-| 🪙 **$INVR Staking** | Stake $INVR directly on the INVARA site |
+| 🪙 **$INVR Staking** | Stake $INVR to reach higher INVARA Pro tiers |
 | 📱 **INVARA App (iOS & Android)** | Screener, alerts and your positions in your pocket |
 | ✨ **And more…** | One release every week |
 
