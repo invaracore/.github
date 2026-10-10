@@ -48,6 +48,7 @@ Real market data is the foundation. Synthetic equities are the mission.
 | 🔐 **INVARA Vault on mainnet** | Real minting after an external audit and legal review (first market: iAAPL) |
 | 📊 **More synthetic markets** | New synthetics for stocks with an on-chain price feed |
 | 🔌 **Public API** | Programmatic access to INVARA data for developers and trading tools |
+| 🪙 **$INVR Staking** | Stake $INVR directly on the INVARA site |
 | 📱 **INVARA App (iOS & Android)** | Screener, alerts and your positions in your pocket |
 | ✨ **And more…** | One release every week |
 
