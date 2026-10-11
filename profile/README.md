@@ -48,6 +48,7 @@ $INVR launches **Monday, October 12 · 12:00 PM ET** on Robinhood Chain. Utility
 | 🖥️ [**Quant Terminal**](https://www.invaracore.com/terminal) | Borrow fees, prices and overnight gap risk in one real-time view |
 | 🛰️ **Oracle Status** | Live health of every on-chain equity price feed on Robinhood Chain |
 | 🏦 [**INVARA Vault on testnet**](https://www.invaracore.com/testnet) | Mint and repay synthetic AAPL with free test dollars, zero risk |
+| 🤖 [**INVARA Insights (Telegram bot)**](https://t.me/INVARAInsightsBot) | Borrow-fee lookups and alerts, vault position warnings and a live liquidation feed |
 
 ---
 
@@ -55,7 +56,6 @@ $INVR launches **Monday, October 12 · 12:00 PM ET** on Robinhood Chain. Utility
 
 | | |
 |---|---|
-| 🤖 **INVARA Telegram bot** | Borrow-fee alerts, vault position warnings and a live liquidation feed |
 | 🛡️ **Liquidation Monitor** | Every vault position ranked by health, with one-click liquidations |
 | 💧 **iAAPL liquidity rewards** | $INVR rewards for providing liquidity to INVARA synthetics |
 | 🔐 **INVARA Vault on mainnet** | Real minting after an external audit and legal review (first market: iAAPL) |
