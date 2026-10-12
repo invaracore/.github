@@ -35,7 +35,7 @@ Real market data is the foundation. Synthetic equities are the mission.
 | 🪙 **Next: Staking tiers** | Stake $INVR to reach higher Plus tiers |
 | 💧 **Before mainnet minting: Liquidity rewards** | $INVR rewards for providing liquidity to INVARA synthetics such as iAAPL |
 
-$INVR launches **Monday, October 12 · 12:00 PM ET** on Robinhood Chain. Utility is access and tiers; holding or staking $INVR promises no yield. Details: [invaracore.com/docs/invr](https://www.invaracore.com/docs/invr)
+$INVR launches **Wednesday, October 14 · 12:00 PM ET** on Robinhood Chain. Utility is access and tiers; holding or staking $INVR promises no yield. Details: [invaracore.com/docs/invr](https://www.invaracore.com/docs/invr)
 
 ---
 
@@ -47,7 +47,7 @@ $INVR launches **Monday, October 12 · 12:00 PM ET** on Robinhood Chain. Utility
 | 📈 **Stock Pages** | Fee, rank, cost-to-short calculator and live price chart for every ticker, e.g. [`/s/GME`](https://www.invaracore.com/s/GME) |
 | 🖥️ [**Quant Terminal**](https://www.invaracore.com/terminal) | Borrow fees, prices and overnight gap risk in one real-time view |
 | 🛰️ **Oracle Status** | Live health of every on-chain equity price feed on Robinhood Chain |
-| 🏦 [**INVARA Vault on testnet**](https://www.invaracore.com/testnet) | Mint and repay synthetic AAPL with free test dollars, zero risk |
+| 🏦 [**INVARA Vault on testnet**](https://www.invaracore.com/testnet) | Deposit tUSDG, mint and repay synthetic AAPL with free test dollars |
 | 🤖 [**INVARA Insights (Telegram bot)**](https://t.me/INVARAInsightsBot) | Borrow-fee lookups and alerts, vault position warnings and a live liquidation feed |
 
 ---
