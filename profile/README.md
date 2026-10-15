@@ -35,7 +35,7 @@ Real market data is the foundation. Synthetic equities are the mission.
 | 🪙 **Next: Staking tiers** | Stake $INVR to reach higher Plus tiers |
 | 💧 **Before mainnet minting: Liquidity rewards** | $INVR rewards for providing liquidity to INVARA synthetics such as iAAPL |
 
-$INVR launches **soon** on Robinhood Chain. The official contract address is posted only on our X and Telegram channel. Utility is access and tiers; holding or staking $INVR promises no yield. Details: [invaracore.com/docs/invr](https://www.invaracore.com/docs/invr)
+$INVR is **live** on Robinhood Chain. Official contract: `0x9A7C661Be578e50927268fb770146D701b3368e7`, the only official $INVR, also posted on our X and Telegram channel. Utility is access and tiers; holding or staking $INVR promises no yield. Details: [invaracore.com/docs/invr](https://www.invaracore.com/docs/invr)
 
 ---
 
