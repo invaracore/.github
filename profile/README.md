@@ -47,6 +47,7 @@ $INVR is **live** on Robinhood Chain. Official contract: `0x9A7C661Be578e5092726
 | 📈 **Stock Pages** | Fee, rank, cost-to-short calculator and live price chart for every ticker, e.g. [`/s/GME`](https://www.invaracore.com/s/GME) |
 | 🖥️ [**Quant Terminal**](https://www.invaracore.com/terminal) | Borrow fees, prices and overnight gap risk in one real-time view |
 | 🛰️ **Oracle Status** | Live health of every on-chain equity price feed on Robinhood Chain |
+| 🛡️ **Liquidation Monitor** | Every vault position ranked by collateral ratio, with a price-shock test |
 | 🏦 [**INVARA Vault on testnet**](https://www.invaracore.com/testnet) | Deposit tUSDG, mint and repay synthetic AAPL with free test dollars |
 | 🤖 [**INVARA Insights (Telegram bot)**](https://t.me/INVARAInsightsBot) | Borrow-fee lookups and alerts, vault position warnings and a live liquidation feed |
 | 📡 **Extreme-Fee Radar** (INVARA Plus) | A Telegram alert the moment any US stock crosses a 100% or 500% APR borrow fee, no watchlist needed |
@@ -57,7 +58,11 @@ $INVR is **live** on Robinhood Chain. Official contract: `0x9A7C661Be578e5092726
 
 | | |
 |---|---|
-| 🛡️ **Liquidation Monitor** | Every vault position ranked by health, with one-click liquidations |
+| 📰 **Week 2: Daily Borrow Digest** (INVARA Plus) | A morning Telegram summary of the biggest fee spikes and newly hard-to-borrow stocks |
+| 🧮 **Week 3: Full-cost comparison** | The real cost of shorting vs holding a synthetic, in the Quant Terminal, including gas |
+| 📊 **Week 4: Public protocol dashboard** | Vault TVL, iAAPL supply, open positions and collateral ratios, live from the chain |
+| 📈 **Week 5: Screener extras** (INVARA Plus) | Fee-history chart for every stock and CSV export |
+| 🛡️ **Week 6: Liquidation Monitor on testnet** | Real testnet positions ranked by health, with one-click liquidation |
 | 💧 **iAAPL liquidity rewards** | $INVR rewards for providing liquidity to INVARA synthetics |
 | 🔐 **INVARA Vault on mainnet** | Real minting after an external audit and legal review (first market: iAAPL) |
 | 📊 **More synthetic markets** | New synthetics for stocks with an on-chain price feed |
