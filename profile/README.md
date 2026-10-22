@@ -21,7 +21,7 @@
 
 Every short has a hidden cost: the **borrow fee**. When a US stock becomes hard to borrow, that fee can climb past 50%, even past 1,000% a year, and most traders only discover it when they place the trade.
 
-**INVARA Core makes that cost visible**, live and free across 18,000+ US stocks and ETFs, and is building **non-custodial synthetic equities** on Robinhood Chain: lock stablecoins, mint a synthetic that tracks a stock, with 0% vault fees and no admin keys.
+**INVARA Core makes that cost visible**, live and free across ~19,000 US stocks and ETFs, and is building **non-custodial synthetic equities** on Robinhood Chain: lock stablecoins, mint a synthetic that tracks a stock, with 0% vault fees and no admin keys.
 
 Real market data is the foundation. Synthetic equities are the mission.
 
@@ -31,7 +31,7 @@ Real market data is the foundation. Synthetic equities are the mission.
 
 | Stage | Utility |
 |---|---|
-| ⚡ **At launch: [INVARA Plus](https://www.invaracore.com/plus)** | Hold 100,000 $INVR (0.01% of supply) to unlock Plus in the Telegram bot: 100 alerts instead of 25, alerts every minute instead of every 5, 50 tracked vault positions, the Extreme-Fee Radar, early access to new synthetic markets |
+| ⚡ **At launch: [INVARA Plus](https://www.invaracore.com/plus)** | Hold 100,000 $INVR (0.01% of supply) to unlock Plus in the Telegram bot: 100 alerts instead of 25, alerts every minute instead of every 5, 50 tracked vault positions, the Extreme-Fee Radar, early access to new synthetic markets when they launch |
 | 🪙 **Next: Staking tiers** | Stake $INVR to reach higher Plus tiers |
 | 💧 **Before mainnet minting: Liquidity rewards** | $INVR rewards for providing liquidity to INVARA synthetics such as iAAPL |
 
@@ -43,11 +43,11 @@ $INVR is **live** on Robinhood Chain. Official contract: `0x9A7C661Be578e5092726
 
 | Tool | Description |
 |---|---|
-| 🔍 [**Borrow Screener**](https://www.invaracore.com/screener) | Live borrow fees and share availability across 18,000+ US stocks and ETFs |
+| 🔍 [**Borrow Screener**](https://www.invaracore.com/screener) | Live borrow fees and share availability across ~19,000 US stocks and ETFs |
 | 📈 **Stock Pages** | Fee, rank, cost-to-short calculator and live price chart for every ticker, e.g. [`/s/GME`](https://www.invaracore.com/s/GME) |
 | 🖥️ [**Quant Terminal**](https://www.invaracore.com/terminal) | Borrow fees, prices and overnight gap risk in one real-time view |
 | 🛰️ **Oracle Status** | Live health of every on-chain equity price feed on Robinhood Chain |
-| 🛡️ **Liquidation Monitor** | Every vault position ranked by collateral ratio, with a price-shock test |
+| 🛡️ [**Liquidation Monitor**](https://www.invaracore.com/liquidations) | Every vault position ranked by collateral ratio, with a price-shock test (testnet vault until mainnet opens) |
 | 🏦 [**INVARA Vault on testnet**](https://www.invaracore.com/testnet) | Deposit tUSDG, mint and repay synthetic AAPL with free test dollars |
 | 🤖 [**INVARA Insights (Telegram bot)**](https://t.me/INVARAInsightsBot) | Borrow-fee lookups and alerts, vault position warnings and a live liquidation feed |
 | 📡 **Extreme-Fee Radar** (INVARA Plus) | A Telegram alert the moment any US stock crosses a 100% or 500% APR borrow fee, no watchlist needed |
@@ -62,7 +62,6 @@ $INVR is **live** on Robinhood Chain. Official contract: `0x9A7C661Be578e5092726
 | 🧮 **Week 3: Full-cost comparison** | The real cost of shorting vs holding a synthetic, in the Quant Terminal, including gas |
 | 📊 **Week 4: Public protocol dashboard** | Vault TVL, iAAPL supply, open positions and collateral ratios, live from the chain |
 | 📈 **Week 5: Screener extras** (INVARA Plus) | Fee-history chart for every stock and CSV export |
-| 🛡️ **Week 6: Liquidation Monitor on testnet** | Real testnet positions ranked by health, with one-click liquidation |
 | 💧 **iAAPL liquidity rewards** | $INVR rewards for providing liquidity to INVARA synthetics |
 | 🔐 **INVARA Vault on mainnet** | Real minting after an external audit and legal review (first market: iAAPL) |
 | 📊 **More synthetic markets** | New synthetics for stocks with an on-chain price feed |
