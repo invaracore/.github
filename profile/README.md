@@ -31,7 +31,7 @@ Real market data is the foundation. Synthetic equities are the mission.
 
 | Stage | Utility |
 |---|---|
-| ⚡ **At launch: [INVARA Plus](https://www.invaracore.com/plus)** | Hold 100,000 $INVR (0.01% of supply) to unlock Plus in the Telegram bot: 100 alerts instead of 25, alerts every minute instead of every 5, 50 tracked vault positions, the Extreme-Fee Radar, early access to new synthetic markets when they launch |
+| ⚡ **At launch: [INVARA Plus](https://www.invaracore.com/plus)** | Hold 100,000 $INVR (0.01% of supply) to unlock Plus in the Telegram bot: 100 alerts instead of 25, alerts every minute instead of every 5, 50 tracked vault positions, the Extreme-Fee Radar, the Daily Borrow Digest, early access to new synthetic markets when they launch |
 | 🪙 **Next: Staking tiers** | Stake $INVR to reach higher Plus tiers |
 | 💧 **Before mainnet minting: Liquidity rewards** | $INVR rewards for providing liquidity to INVARA synthetics such as iAAPL |
 
@@ -51,6 +51,7 @@ $INVR is **live** on Robinhood Chain. Official contract: `0x9A7C661Be578e5092726
 | 🏦 [**INVARA Vault on testnet**](https://www.invaracore.com/testnet) | Deposit tUSDG, mint and repay synthetic AAPL with free test dollars |
 | 🤖 [**INVARA Insights (Telegram bot)**](https://t.me/INVARAInsightsBot) | Borrow-fee lookups and alerts, vault position warnings and a live liquidation feed |
 | 📡 **Extreme-Fee Radar** (INVARA Plus) | A Telegram alert the moment any US stock crosses a 100% or 500% APR borrow fee, no watchlist needed |
+| 📰 **Daily Borrow Digest** (INVARA Plus) | Every weekday before the US open: the biggest fee spikes, newly hard-to-borrow stocks and stocks running out of shares |
 
 ---
 
@@ -58,7 +59,6 @@ $INVR is **live** on Robinhood Chain. Official contract: `0x9A7C661Be578e5092726
 
 | | |
 |---|---|
-| 📰 **Week 2: Daily Borrow Digest** (INVARA Plus) | A morning Telegram summary of the biggest fee spikes and newly hard-to-borrow stocks |
 | 🧮 **Week 3: Full-cost comparison** | The real cost of shorting vs holding a synthetic, in the Quant Terminal, including gas |
 | 📊 **Week 4: Public protocol dashboard** | Vault TVL, iAAPL supply, open positions and collateral ratios, live from the chain |
 | 📈 **Week 5: Screener extras** (INVARA Plus) | Fee-history chart for every stock and CSV export |
