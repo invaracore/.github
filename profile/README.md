@@ -59,16 +59,16 @@ $INVR is **live** on Robinhood Chain. Official contract: `0x9A7C661Be578e5092726
 
 | | |
 |---|---|
-| 🧮 **Week 3: Full-cost comparison** | The real cost of shorting vs holding a synthetic, in the Quant Terminal, including gas |
-| 📊 **Week 4: Public protocol dashboard** | Vault TVL, iAAPL supply, open positions and collateral ratios, live from the chain |
-| 📈 **Week 5: Screener extras** (INVARA Plus) | Fee-history chart for every stock and CSV export |
+| 🧮 **Full-cost comparison** | The real cost of shorting vs holding a synthetic, in the Quant Terminal, including gas |
+| 📊 **Public protocol dashboard** | Vault TVL, iAAPL supply, open positions and collateral ratios, live from the chain |
+| 📈 **Screener extras** (INVARA Plus) | Fee-history chart for every stock and CSV export |
 | 💧 **iAAPL liquidity rewards** | $INVR rewards for providing liquidity to INVARA synthetics |
 | 🔐 **INVARA Vault on mainnet** | Real minting after an external audit and legal review (first market: iAAPL) |
 | 📊 **More synthetic markets** | New synthetics for stocks with an on-chain price feed |
 | 🔌 **Public API** | Programmatic access to INVARA data for developers and trading tools |
 | 🪙 **$INVR Staking** | Stake $INVR to reach higher INVARA Plus tiers |
 | 📱 **INVARA App (iOS & Android)** | Screener, alerts and your positions in your pocket |
-| ✨ **And more…** | One release every week |
+| ✨ **And more…** | Announced on our X as each one ships |
 
 ---
 
