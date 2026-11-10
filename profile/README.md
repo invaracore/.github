@@ -11,6 +11,7 @@
 [![Website](https://img.shields.io/badge/WEBSITE-INVARACORE.COM-10B981?style=for-the-badge&labelColor=1E2330)](https://www.invaracore.com)
 [![Docs](https://img.shields.io/badge/DOCS-READ-10B981?style=for-the-badge&labelColor=1E2330)](https://www.invaracore.com/docs)
 [![X](https://img.shields.io/badge/@INVARACORE-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/INVARACore)
+[![Telegram](https://img.shields.io/badge/TELEGRAM-INVRCORE-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/INVRCore)
 [![Chain](https://img.shields.io/badge/ROBINHOOD-CHAIN-CCFF00?style=for-the-badge&labelColor=1E2330)](https://www.invaracore.com)
 
 </div>
